@@ -10,7 +10,7 @@
 
 ## How to Use
 
-![Demo](gif-link-here)
+![Demo](https://github.com/maxh33/randomize-number/blob/main/src/max-number-generator.gif?raw=true)
 
 To use the Max Number Generator, simply enter a maximum number in the input field and click the "Randomize Number" button. A random number up to your maximum will be generated and displayed.
 
